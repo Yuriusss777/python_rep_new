@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # Список матных и ругательных слов
-bad_words = ["блядь", "блять", "хуй", "нахуй", "пизда", "пиздец", "член"]
+bad_words = ["блядь", "блять", "хуй", "нахуй", "пизда", "пиздец", "член", 'соси', 'дурак']
 
 
 def start(update: Update, context) -> None:
