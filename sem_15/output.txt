@@ -1,0 +1,25 @@
+Name: log
+Extension: .txt
+Is Directory: False
+Parent Directory: sem_15
+
+Name: output
+Extension: .txt
+Is Directory: False
+Parent Directory: sem_15
+
+Name: task_dz
+Extension: .py
+Is Directory: False
+Parent Directory: sem_15
+
+Name: test
+Extension: .py
+Is Directory: False
+Parent Directory: sem_15
+
+Name: test2
+Extension: .py
+Is Directory: False
+Parent Directory: sem_15
+
